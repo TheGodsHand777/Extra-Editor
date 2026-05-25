@@ -1,0 +1,12 @@
+{
+  "name": "extra-editor",
+  "displayName": "Extra Editor",
+  "author": "KlasterX",
+  "description": "Adds extra utilities to map editor.",
+  "version": "1.0",
+  "minGameVersion": "155",
+  "repo": "TheGodsHand777/Extra-Editor",
+  "java": true,
+  "main": "extraeditor.ExtraEditorMod",
+  "hidden": true
+}
